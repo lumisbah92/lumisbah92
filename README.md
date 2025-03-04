@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Misbah Uddin Tareq</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumisbah92&label=Profile%20views&color=0e75b6&style=flat" alt="lumisbah92" /> </p>
 
