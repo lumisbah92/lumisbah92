@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lumisbah92@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x7vwiEF_W8rf5YwL8nTahfzaukn_y3Ya/view?usp=sharing](https://drive.google.com/file/d/1x7vwiEF_W8rf5YwL8nTahfzaukn_y3Ya/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x7vwiEF_W8rf5YwL8nTahfzaukn_y3Ya/view?usp=sharing](Resume - Misbah Uddin Tareq)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
