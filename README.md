@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lumisbah92" alt="lumisbah92" /></a> </p>
 
-- 🔭 I’m currently working as a **Junior Software Engineer in Be Data Solutions, Dhaka**
+- 🔭 I’m currently working as a **Node.js Developer at Startise, Mirpur DOHS, Dhaka**
 
 - 🌱 I’m currently learning **System Design and Backend Engineering with AWS**
 
-- 👯 I’m looking to collaborate on **Full stack projects using ReactJS, NodeJS**
+- 👯 I’m looking to collaborate on **Full stack projects using ReactJS, NodeJS and AWS**
 
-- 💬 Ask me about **React JS, Tailwind CSS, Redux, Node JS, MongoDB, SQL, AWS (EB, EC2, Load Balancer, Lambda, S3, SES)**
+- 💬 Ask me about **React JS, Tailwind CSS, Redux, Node JS, MongoDB, Postgres, AWS (EB, EC2, Load Balancer, Lambda, S3, SES)**
 
 - 📫 How to reach me **lumisbah92@gmail.com**
 
